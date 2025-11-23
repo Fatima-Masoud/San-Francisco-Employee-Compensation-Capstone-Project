@@ -114,7 +114,7 @@ Based on the analysis, we propose three actionable policy recommendations:
 
 ***
 
-## ⚠️ Limitations
+## Limitations
 
 * Missing work-hour data prevents productivity analysis.
 * Benefit calculations depend on department reporting accuracy.
