@@ -1,4 +1,4 @@
-# 📊 San Francisco Employee Compensation Analysis
+# San Francisco Employee Compensation Analysis
 
 **Exploratory Data Analysis (EDA) & Insights**
 
@@ -6,7 +6,7 @@ This project analyzes employee compensation data from the City and County of San
 
 ***
 
-## ⭐ Project Overview
+## Project Overview
 
 Employee compensation is one of the city’s largest expenses. This analysis aims to answer key questions such as:
 * Which departments and organization groups drive the majority of compensation spending?
@@ -19,7 +19,7 @@ This repository includes the complete EDA, cleaning steps, visualizations, and i
 
 ***
 
-## 🧠 Key Findings
+## Key Findings
 
 From the Exploratory Data Analysis (EDA):
 
@@ -36,7 +36,7 @@ From the Exploratory Data Analysis (EDA):
 
 ***
 
-## 🧬 Dataset Description
+## Dataset Description
 
 The dataset contains employee payroll information for San Francisco employees over multiple years.
 
@@ -61,7 +61,7 @@ A full data dictionary is included in the Technical Report.
 
 ***
 
-## 🛠 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Performed using Python (`pandas`):
 
@@ -76,7 +76,7 @@ Performed using Python (`pandas`):
 
 ***
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Visualizations created include:
 * Average Total Compensation by Organization Group
@@ -92,7 +92,7 @@ All visuals are included in the presentation and Tableau.
 
 ***
 
-## 🎯 Tools & Technologies
+## Tools & Technologies
 
 * **Python** (`pandas`, `numpy`, `matplotlib`, `seaborn`)
 * **Tableau** (interactive dashboards & visuals)
@@ -101,7 +101,7 @@ All visuals are included in the presentation and Tableau.
 
 ***
 
-## 💡 Recommendations
+## Recommendations
 
 Based on the analysis, we propose three actionable policy recommendations:
 
